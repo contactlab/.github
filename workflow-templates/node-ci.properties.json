@@ -1,0 +1,11 @@
+{
+    "name": "Contactlab Node Workflow",
+    "description": "Contactlab organization Node CI workflow template.",
+    "iconName": "mc-sign",
+    "categories": [
+        "JavaScript"
+    ],
+    "filePatterns": [
+        "package.json$"
+    ]
+}
